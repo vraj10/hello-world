@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Congratulations Big Dawg!!!</p>
+    <p>Congratulations Big Dawg, you made your first CI/CD pipeline!!!</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
